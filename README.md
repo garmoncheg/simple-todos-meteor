@@ -4,6 +4,7 @@ This app uses the module functionality from the upcoming Meteor 1.4, but everyth
 ## Versions
 
 This version written in ES2015 JavaScript.
+This version uses integration with Facebook profiles and login.
 
 ### Running the app
 
@@ -11,3 +12,6 @@ This version written in ES2015 JavaScript.
 meteor npm install
 meteor
 ```
+
+![screenshot-todos](https://cloud.githubusercontent.com/assets/659717/18417695/cd754e38-783f-11e6-9cfb-2709b74604a5.png)
+
